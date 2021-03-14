@@ -1,7 +1,6 @@
 package net.prodapp.springsecurityapp.model;
 
 import lombok.Data;
-import org.springframework.security.core.userdetails.User;
 
 import javax.persistence.*;
 import java.util.Set;
